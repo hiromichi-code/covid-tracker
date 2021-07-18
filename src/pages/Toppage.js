@@ -1,5 +1,5 @@
-import Selector from "../components/Selector";
 import Title from "../components/Title";
+import Selector from "../components/Selector";
 
 const Toppage = () => {
 	return (

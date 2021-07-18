@@ -1,12 +1,12 @@
-import Toppage from './pages/Toppage'; 
-import './App.css';
+import Toppage from "./pages/Toppage";
+import "./App.css";
 
 function App() {
-  return (
-    <div>
-      <Toppage />
-    </div>
-  );
+	return (
+		<div>
+			<Toppage />
+		</div>
+	);
 }
 
 export default App;
