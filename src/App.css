@@ -1,8 +1,4 @@
 .App{
-    font-family: serif;
-    font-size: 32px;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background-color: green;
+    letter-spacing:10px;
 }
